@@ -1,0 +1,14 @@
+{
+    "manifest_version" : 3,
+    "version" : "1.0",
+     "name":"The Personal Bookmarks",
+     "action":{
+        "default_popup":"myExtension.html",
+        "default_icon":"icon.png"
+     },
+     "permissions":[
+      "tabs"
+     ]
+
+
+}

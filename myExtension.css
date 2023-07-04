@@ -1,0 +1,36 @@
+body{
+margin: 0;
+padding: 15px;
+min-width: 400px;
+}
+input{
+    width: 100%;
+border-color: rgb(98, 16, 101);
+color: rgb(98, 16, 101);
+font-weight: 600;
+padding: 5px;
+box-sizing: border-box;
+margin-bottom: 6px;
+}
+button{
+    font-weight: 600;
+padding: 5px;
+width: 130px;
+    color: white;
+    background-color:rgb(98,16,101)
+     ;
+}
+ul{
+padding: 5px;}
+li{
+margin: 5px;}
+a{
+    color: rgb(98, 16, 101);
+}
+
+#dlt{
+border-color: rgb(98, 16, 101);
+
+color: rgb(98, 16, 101);
+background-color: aliceblue;
+}
